@@ -1,4 +1,4 @@
-public class Calculator {
+public class calculatingnumbers {
 
     public double add(double a, double b) {
         return a + b;
