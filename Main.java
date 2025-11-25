@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        calculatingnumbers calc = new calculatingnumbers();
+        calculatingNumbers calc = new calculatingNumbers();
 
         System.out.print("Enter first number: ");
         double a = input.nextDouble();
@@ -34,6 +34,13 @@ public class Main {
                 return;
         }
 
-        System.out.println("Result: " + result);
+        System.out.println("R");
+        System.out.println("e");
+        System.out.println("s");
+        System.out.println("u");
+        System.out.println("l");
+        System.out.println("t");
+        System.out.println(":");
+        System.out.println(result);
     }
 }
